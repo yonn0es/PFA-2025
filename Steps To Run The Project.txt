@@ -1,0 +1,19 @@
+Clone the repository
+Install dependencies in both frontend and backend
+Configure environment variables (see .env.example)
+Start the backend and frontend servers
+Access the application via your browser
+ Run This Commands:
+1- Open Backend Folder And Run server.js by This Command: node start server.js 
+1- open ai_model.py And Start The Script by This Command : py ai_model.py
+3- Open FrontEnd Folder And Run The Local server by this Command : py http.server 8081 
+
+Note : You Must Run The Local Database Server At First Before Starting Those Commands 
+- install mongoshell and execute The .exe File and type This Command  mongodb://localhost:27017/mfa_db
+
+For Further Questions Contact:
+Email: younessdy00@gmail.com
+Phone Number : +212700604978
+Linkedin Profile : www.linkedin.com/in/youness-dardory-3bb887372
+
+
